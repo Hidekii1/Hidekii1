@@ -5,8 +5,7 @@
 - 🔭 I’m currently working on 2 website with React + Vite
 - 🌱 I’m currently learning React, React Native, Next JS and Angular
 - 🤔 I’m looking for help with web development
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about Linux and Windows, React, MongoDB
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Play VALORANT :)
 
