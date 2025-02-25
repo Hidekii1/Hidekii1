@@ -2,7 +2,7 @@
 
 ## I'm a Engineering Student 
 
-<img align="right" alt="GIF" height="170px" src="https://i.pinimg.com/originals/96/91/96/9691968e8b0dcc6270a69ee5239c3727.gif"/>
+<img align="right" alt="GIF" height="160px" src="https://i.pinimg.com/originals/96/91/96/9691968e8b0dcc6270a69ee5239c3727.gif"/>
 
 - 🔭 I’m currently working on 2 website with React + Vite
 - 🌱 I’m currently learning React, React Native, Next JS and Angular
@@ -13,7 +13,7 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
 
