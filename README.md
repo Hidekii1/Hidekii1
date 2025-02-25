@@ -52,3 +52,22 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 <br/>
+
+### Machine:
+<div display="flex">
+  <img src="https://img.shields.io/badge/windows-ASUS%20TUF%20FX506HF-%23F50F0F.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/ubuntu-ASUS%20TUF%20FX506HF-%23dd4814.svg?&style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/intel-core%20i5%2011th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-GeForce%20rtx2050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</div>
+<br>
+
+### Gaming:
+<div display="flex">
+  <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/epic%20games%20-%23000000.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>
+  <img src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike" />
+  <img src="https://img.shields.io/badge/Valorant-%23000000.svg?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GTA5-%23000000.svg?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Call%20Of%20Duty%20WARZONE-%23000000.svg?&style=for-the-badge" />
+</div>
