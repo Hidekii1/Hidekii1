@@ -1,15 +1,22 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch:  # Permite ejecución manual
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"  # Se ejecuta todos los días a las 12 AM UTC
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: HidekiSenpai1/HidekiSenpai1@main
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update WakaTime Stats
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          REPOSITORY: HidekiSenpai1/HidekiSenpai1
+          TARGET_BRANCH: main
+          COMMIT_MESSAGE: "📊 Actualizando estadísticas de WakaTime"
