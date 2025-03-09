@@ -49,7 +49,7 @@ JavaScript   11 mins         ▒░░░░░░░░░░░░░░░░
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=%233178C6&color=%233178C6)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+![Adobe Photoshop](http://img.shields.io/badge/-Adobe%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
 #### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
@@ -71,8 +71,8 @@ JavaScript   11 mins         ▒░░░░░░░░░░░░░░░░
 
 ### Machine:
 <div display="flex">
-  <img src="https://img.shields.io/badge/windows-ASUS%20TUF%20FX506HF-%23F50F0F.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/ubuntu-ASUS%20TUF%20FX506HF-%23dd4814.svg?&style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/windows-ASUS%20TUF%20FX506HF-%23F50F0F.svg?&style=for-the-badge&logo=windows10&logoColor=white" />
+  <img src="https://img.shields.io/badge/archlinux-ASUS%20TUF%20FX506HF-%230079c1.svg?&style=for-the-badge&logo=arch-linux&logoColor=white">
   <img src="https://img.shields.io/badge/intel-core%20i5%2011th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-GeForce%20rtx2050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </div>
