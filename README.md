@@ -24,8 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PowerShell   3 hrs 24 mins   █████████████████████████   99.75 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+PowerShell   1 hr 44 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
