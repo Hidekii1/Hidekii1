@@ -24,8 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   19 mins         ████████████████████░░░░░   79.40 %
-PowerShell   5 mins          █████░░░░░░░░░░░░░░░░░░░░   20.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
