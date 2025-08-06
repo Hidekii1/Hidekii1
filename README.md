@@ -46,6 +46,7 @@ No activity tracked
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=%233178C6&color=%233178C6)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Astro](https://img.shields.io/badge/Astro-%23282C34?style=flat-square&logo=astro)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Adobe Photoshop](http://img.shields.io/badge/-Adobe%20Photoshop-26C9FF?style=flat-square&logo=photoshop&logoColor=ffffff)
 
@@ -84,3 +85,4 @@ No activity tracked
   <img src="https://img.shields.io/badge/GTA5-%23000000.svg?&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Call%20Of%20Duty%20WARZONE-%23000000.svg?&style=for-the-badge" />
 </div>
+ 
