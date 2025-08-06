@@ -33,6 +33,8 @@ No activity tracked
 
 ### Languages and Tools 🛠 
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=orange)
+![Go](https://img.shields.io/badge/Go-000000?style=flat-square&logo=Go)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
@@ -40,12 +42,13 @@ No activity tracked
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-%231572B6?style=flat-square&logo=tailwind-css)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=%233178C6&color=%233178C6)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Adobe Photoshop](http://img.shields.io/badge/-Adobe%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+![Adobe Photoshop](http://img.shields.io/badge/-Adobe%20Photoshop-26C9FF?style=flat-square&logo=photoshop&logoColor=ffffff)
 
 #### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
