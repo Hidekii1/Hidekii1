@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" width="30%" src="./assets/aerith.gif"/>
 
 - 🔭 I’m currently working on a website and app for mobile
-- 🌱 I’m currently learning React, React Native, Next JS and Angular
+- 🌱 I’m currently learning Rust, Go, Kotlin and Swift
 - 🤔 I’m looking for help with... nothing at the moment
 - 💬 Ask me about Linux and Windows, React, MongoDB
 - 😄 Pronouns: he/him
