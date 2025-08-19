@@ -24,11 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript          6 hrs 59 mins   ██████████████████░░░░░░░   71.65 %
-Gradle Kotlin DSL   52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-CSS                 31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
-JavaScript          25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-JSON                24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+TypeScript          6 hrs 59 mins   ███████████████░░░░░░░░░░   59.43 %
+Astro               1 hr 55 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
+Gradle Kotlin DSL   52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+CSS                 36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+JavaScript          25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
 ```
 
 <!--END_SECTION:waka-->
