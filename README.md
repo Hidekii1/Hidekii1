@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" width="31%" src="./assets/aerith.gif"/>
 
-- 🔭 I’m currently working on a website and app for mobile
+- 🔭 I’m currently working on my portfolio and mobile app
 - 🌱 I’m currently learning Rust, Go, Kotlin and Swift
 - 🤔 I’m looking for help with... nothing at the moment
 - 💬 Ask me about Linux and Windows, React, MongoDB
