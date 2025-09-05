@@ -2,7 +2,7 @@
 
 ## I'm a Engineering Student 
 
-<img align="right" alt="GIF" width="30%" src="./assets/aerith.gif"/>
+<img align="right" alt="GIF" width="31%" src="./assets/aerith.gif"/>
 
 - 🔭 I’m currently working on a website and app for mobile
 - 🌱 I’m currently learning Rust, Go, Kotlin and Swift
