@@ -53,8 +53,9 @@ HTML         25 mins         ██▒░░░░░░░░░░░░░░
 ![Adobe Photoshop](http://img.shields.io/badge/-Adobe%20Photoshop-26C9FF?style=flat-square&logo=photoshop&logoColor=ffffff)
 
 #### Database
+![MySQL](https://img.shields.io/badge/-MySQL-gray?style=flat-square&logo=mysql)
+![MariaDB](https://img.shields.io/badge/-MariaDB-blue?style=flat-square&logo=mariadb)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 #### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
