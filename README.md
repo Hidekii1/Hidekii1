@@ -1,7 +1,14 @@
-# Hi there, I'm Óscar Barahona - aka Hideki 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=%C3%93scar%20Barahona&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Student%20of%20Networked%20Computer%20Systems%20Administration%20(ASIR)&descSize=18&descAlignY=55&textBg=false"/>
+</div>
 
-## I'm a Engineering Student 
+<div align="center">
+  <a href="https://komarev.com/ghpvc/?username=Hidekii1">
+    <img src="https://komarev.com/ghpvc/?username=Hidekii1&label=Profile%20views&color=00FFFF&style=flat-square" alt="Hidekii1's profile views" />
+  </a>
+</div>
 
+## 📌 About Me
 - 🔭 I’m currently working on my portfolio and mobile app
 - 🌱 I’m currently learning Rust, Go, Kotlin and Swift
 - 🤔 I’m looking for help with... nothing at the moment
@@ -9,7 +16,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Play VALORANT :)
 
----
 
 <img align="right" alt="GIF" width="16%" src="./assets/spotify.gif" />
 
@@ -17,7 +23,64 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=oscarbarahona2006&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/oscarbarahona2006)
 
----
+
+## 🧠 My Focus Areas
+- Web Development and Cybersecurity
+
+
+## 📊 GitHub Stats & Trophies
+<div align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=synthwave&fontFamily=Arima&preferLogin=true">
+    <img  alt="Hidekii1's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Hidekii1?cardType=github&theme=synthwave&fontFamily=Arima&preferLogin=true" />
+  </a>
+</div>
+
+
+## 🛠️ Languages & Tools
+> ## Programming Languages
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="48" height="48" style="margin: 4px;" />
+  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="Rust" width="48" height="48" style="margin: 4px;" />
+</p>
+
+> ## Frontend
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" />
+</p>
+
+> ## Backend
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" />
+</p>
+
+> ## Database
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" />
+</p>
+
+> ## DevOps & Cloud
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" />
+</p>
+
+> ## Tools
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" />
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" />
+</p>
 
 <!--START_SECTION:waka-->
 
@@ -31,61 +94,21 @@ JSON         3 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
----
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/oscar-barahona-del-real" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/>
+  </a>
+  <a href="mailto:oscarbarahona2006@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/>
+  </a>
+  <a href="https://hidekisportfolio.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/>
+  </a>
+</p>
 
-### Languages and Tools 🛠 
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=orange)
-![Go](https://img.shields.io/badge/Go-000000?style=flat-square&logo=Go)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
-
-#### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-%231572B6?style=flat-square&logo=tailwind-css)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=%233178C6&color=%233178C6)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Astro](https://img.shields.io/badge/Astro-%23282C34?style=flat-square&logo=astro)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Adobe Photoshop](http://img.shields.io/badge/-Adobe%20Photoshop-26C9FF?style=flat-square&logo=photoshop&logoColor=ffffff)
-
-#### Database
-![MySQL](https://img.shields.io/badge/-MySQL-gray?style=flat-square&logo=mysql)
-![MariaDB](https://img.shields.io/badge/-MariaDB-blue?style=flat-square&logo=mariadb)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-
-#### Others
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
-
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
-
-![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-
-<br/>
-
-### Machine:
-<div display="flex">
-  <img src="https://img.shields.io/badge/windows-ASUS%20TUF%20FX506HF-%23F50F0F.svg?&style=for-the-badge&logo=windows10&logoColor=white" />
-  <img src="https://img.shields.io/badge/archlinux-ASUS%20TUF%20FX506HF-%230079c1.svg?&style=for-the-badge&logo=arch-linux&logoColor=white">
-  <img src="https://img.shields.io/badge/intel-core%20i5%2011th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-GeForce%20rtx2050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-</div>
-<br>
-
-### Gaming:
-<div display="flex">
-  <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam" />
-  <img src="https://img.shields.io/badge/epic%20games%20-%23000000.svg?&style=for-the-badge&logo=epic%20games"/>
-  <img src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike" />
-  <img src="https://img.shields.io/badge/Valorant-%23000000.svg?&style=for-the-badge&logo=valorant&logoColor=white" />
-  <img src="https://img.shields.io/badge/GTA5-%23000000.svg?&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Call%20Of%20Duty%20WARZONE-%23000000.svg?&style=for-the-badge" />
-</div>
- 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
