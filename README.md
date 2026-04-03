@@ -88,9 +88,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other        14 mins               ██████████▓░░░░░░░░░░░░░░   42.61 %
-Markdown     9 mins                ███████▒░░░░░░░░░░░░░░░░░   28.79 %
-JavaScript   9 mins                ███████░░░░░░░░░░░░░░░░░░   28.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
