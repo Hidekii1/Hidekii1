@@ -88,9 +88,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++          42 mins               ██████████████████▓░░░░░░   74.25 %
-TypeScript   14 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
-Astro        0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
